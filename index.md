@@ -13,10 +13,3 @@ group: navigation
   {% include post_detail.html %}
 </div>
 
-{% for post in site.posts limit:1  %}
-{% if forloop.last %}
-  <li>
-    <a href="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </li>
-{% endif %}
-{% endfor %}
