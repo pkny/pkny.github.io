@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Main Page
+title:
 header: Pages
 group: navigation
 ---
