@@ -7,9 +7,15 @@ group: navigation
 
 ---
 
-<div class="blog-index">  
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
-</div>
+<ul class="entries">
+            {% for post in paginator.posts %}
+              <li>
+                <a href="{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+                <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+                </a>
+              </li>
+            {% endfor %}
+            </ul>
 
