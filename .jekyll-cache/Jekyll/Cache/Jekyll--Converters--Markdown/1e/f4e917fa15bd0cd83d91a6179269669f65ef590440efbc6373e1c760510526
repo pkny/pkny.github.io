@@ -1,0 +1,32 @@
+I"�<hr />
+
+<div class="blog-index">  
+  
+  
+  <h1 class="entry-title">
+<!---
+-->
+
+    <a href="/2020/01/26/testing-out-a-post-with-a-youtube-video">Testing out a post with a YouTube video</a>
+
+</h1>
+<div class="entry-content"><p>Following the links on <a href="https://github.com/dommmel/jekyll-youtube">this page</a>, I added a plugin to embed a YouTube video in my posts.</p>
+
+<p><b>Update: this plugin won’t work with GitHub, so links will have to be embedded a different way…</b></p>
+
+<p>So let’s test it.</p>
+
+<p>First, here’s an example of how to embed a video of the <a href="https://www.discogs.com/Lucifers-Friend-Lucifers-Friend/master/90119">Lucifer’s Friend</a> album I gave a run today:</p>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"video"</span><span class="nt">&gt;</span> <span class="nt">&lt;figure&gt;</span> <span class="nt">&lt;iframe</span> <span class="na">width=</span><span class="s">"640"</span> <span class="na">height=</span><span class="s">"480"</span> <span class="na">src=</span><span class="s">"//www.youtube.com/embed/y9AJ4HVAQg"</span> <span class="na">frameborder=</span><span class="s">"0"</span> <span class="na">allowfullscreen</span><span class="nt">&gt;&lt;/iframe&gt;</span> <span class="nt">&lt;/figure&gt;</span> <span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<p>And if all goes well, the video should be embedded below:</p>
+
+<div class="video"> <figure> <iframe width="640" height="480" src="http://www.youtube.com/embed/y9AJ4HVAQg" frameborder="0" allowfullscreen=""></iframe> </figure> </div>
+
+</div>
+
+</div>
+
+:ET
