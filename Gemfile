@@ -25,6 +25,11 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo-data"
 end
 
+# Added by PK to add YT plugin 1/26/20
+group :jekyll_plugins do
+  gem "jekyll-youtube"
+end
+
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
