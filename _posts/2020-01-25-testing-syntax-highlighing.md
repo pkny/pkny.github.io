@@ -21,6 +21,12 @@ And some Powershell as well...
 
 {% highlight powershell %}
 Get-PrinterDriver | Select-Object Name, MajorVersion, DriverVersion
+
+Name                   MajorVersion    DriverVersion
+----                   ------------    -------------
+Microsoft XPS Docu...             4 2814750890000385
+Samsung Universal ...             3  844424930656256
+
 {% endhighlight %}
 
 {% include JB/setup %}

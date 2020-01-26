@@ -1,0 +1,18 @@
+I"t<p>Let’s see if syntax highlighing works…here’s some example Ruby code:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>And some Powershell as well…</p>
+
+<figure class="highlight"><pre><code class="language-powershell" data-lang="powershell"><span class="nf">Get-PrinterDriver</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="nf">Select-Object</span><span class="w"> </span><span class="nx">Name</span><span class="p">,</span><span class="w"> </span><span class="nx">MajorVersion</span><span class="p">,</span><span class="w"> </span><span class="nx">DriverVersion</span><span class="w">
+
+</span><span class="nf">Name</span><span class="w">                   </span><span class="nx">MajorVersion</span><span class="w">    </span><span class="nx">DriverVersion</span><span class="w">
+</span><span class="nf">----</span><span class="w">                   </span><span class="nf">------------</span><span class="w">    </span><span class="nf">-------------</span><span class="w">
+</span><span class="nx">Microsoft</span><span class="w"> </span><span class="nx">XPS</span><span class="w"> </span><span class="nx">Docu...</span><span class="w">             </span><span class="nx">4</span><span class="w"> </span><span class="nx">2814750890000385</span><span class="w">
+</span><span class="nx">Samsung</span><span class="w"> </span><span class="nx">Universal</span><span class="w"> </span><span class="o">...</span><span class="w">             </span><span class="nx">3</span><span class="w">  </span><span class="nx">844424930656256</span></code></pre></figure>
+
+:ET
