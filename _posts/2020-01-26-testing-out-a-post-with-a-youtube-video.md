@@ -11,7 +11,7 @@ Following the links on [this page](https://github.com/dommmel/jekyll-youtube), I
 
 So let's test it.
 
-First, here's an example of how to embed a video of the [Lucifer's Friend](https://www.discogs.com/Lucifers-Friend-Lucifers-Friend/master/90119) album I gave a run today, using the embed code poste by YT:
+First, here's an example of how to embed a video of the [Lucifer's Friend](https://www.discogs.com/Lucifers-Friend-Lucifers-Friend/master/90119) album I gave a run today, using the embed code posted by YT:
 
 
 ```css
