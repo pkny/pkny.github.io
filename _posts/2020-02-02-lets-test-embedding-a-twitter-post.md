@@ -3,7 +3,7 @@ layout: post
 title: "Let's test embedding a Twitter post"
 description: ""
 category: 
-tags: [github twitter]
+tags: [github,twitter]
 ---
 So let's see how this comes out...
 

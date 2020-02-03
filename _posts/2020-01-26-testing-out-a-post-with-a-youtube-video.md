@@ -3,7 +3,7 @@ layout: post
 title: "Testing out a post with a YouTube video"
 description: ""
 category: 
-tags: [music youtube]
+tags: [music,youtube]
 ---
 Following the links on [this page](https://github.com/dommmel/jekyll-youtube), I added a plugin to embed a YouTube video in my posts.
 
