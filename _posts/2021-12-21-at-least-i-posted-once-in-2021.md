@@ -7,7 +7,7 @@ tags: [laziness]
 ---
 So every year I think to myself, "This will be the year I start actually blogging stuff".  And at the end of every year, that never happens.  It' like I'm getting a jump on New Years resolutions in some sense, but I want to be less lazy, and use this blog to get thoughts out of head.
 
-So while today is the start of season winter, I submit to you abut the metaphorical winter we've been living through my entire lifespan, with the hope that I'll be around long enough to see the spring.
+So while today is the start of seasonal winter, I submit to you some music about the metaphorical winter we've been living through my entire lifespan, with the hope that I'll be around long enough to see the spring.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=WnkDjMDD3JQ
 " target="_blank"><img src="http://img.youtube.com/vi/WnkDjMDD3JQ/0.jpg" 
